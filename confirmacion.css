@@ -85,14 +85,14 @@ body {
     color: rgba(255, 255, 255, 0.789);
 }
 
-h2{
-color: rgb(255, 255, 255);
-background-color: rgba(0, 0, 0, 0.521);
-text-align: center;
-font-size: 30px;
-padding: 15px;
-display: flex;
-flex-direction: column;
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.521);
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
 
 
 }
